@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insertion Sort</title>
+</head>
+<body>
+    <script type="text/javascript">
+        
+        var a = [2, 40, 86, 22, 5000, 222, 102];
+        document.write("Muestra arreglo sin ordenar: " + a + "<br/>");
+
+        function insertion(a) {
+        for (var i = 1; i < a.length; i++) {
+            var aux = a[i];
+            var j;
+        for (j = i - 1; j >= 0 && a[j] > aux; j--) {
+            a[j + 1] = a[j];
+            }
+            a[j + 1] = aux;
+        }
+        document.write("Arreglo ordenado con algoritmo <b>Insertion:</b> " + a);
+        }   
+
+    insertion(a);
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Categorias>
+    <Categoria>
+        <idCategoria>1</idCategoria>
+        <nombreCategoria>Electrónica</nombreCategoria>
+        <descripcionCategoria>Artículos Electrónicos  para el Hogar</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>2</idCategoria>
+        <nombreCategoria>Línea Blanca</nombreCategoria>
+        <descripcionCategoria>Artículos de Línea Blanca para el Hogar</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>3</idCategoria>
+        <nombreCategoria>Gamer</nombreCategoria>
+        <descripcionCategoria>Consolas y videojuegos</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>4</idCategoria>
+        <nombreCategoria>Postres</nombreCategoria>
+        <descripcionCategoria>Variedad de recetas de postres</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>5</idCategoria>
+        <nombreCategoria>Licorería</nombreCategoria>
+        <descripcionCategoria>Botellas de vino</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>6</idCategoria>
+        <nombreCategoria>Deportes</nombreCategoria>
+        <descripcionCategoria>Artículos atletas</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>7</idCategoria>
+        <nombreCategoria>Bebés</nombreCategoria>
+        <descripcionCategoria>Ropa de recién nacido</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>8</idCategoria>
+        <nombreCategoria>Frutas y Verduras</nombreCategoria>
+        <descripcionCategoria>Frutas y verduras de temporada</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>9</idCategoria>
+        <nombreCategoria>Farmacia</nombreCategoria>
+        <descripcionCategoria>Medicamentos básicos</descripcionCategoria>
+    </Categoria>
+    <Categoria>
+        <idCategoria>10</idCategoria>
+        <nombreCategoria>Abarrotes</nombreCategoria>
+        <descripcionCategoria>Almacén de distintos embutidos y abarrotes</descripcionCategoria>
+    </Categoria>
+<Categorias>
